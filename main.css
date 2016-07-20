@@ -1,0 +1,29 @@
+body{
+	font-family: Courier;
+}
+hr{
+	width: 20%;
+	margin-left: 0px;
+	border: solid black 2px;
+}
+p{
+	position: absolute;
+	color: blue;
+	padding-top: 170px;
+	padding-left: 15px;
+	left: 15%;
+}
+div{
+float: left;
+ position: relative;
+ left: 2px;
+ margin: 5px;
+}
+
+.arriba{ 
+clear: both;
+}
+img:hover{
+opacity: 0.6;
+filter: alpha(opacity=60%);
+}
